@@ -1,6 +1,8 @@
 extends Node
 
+# Variável global utilizada na iteração do array de movimento
 var i_contador = 0
+
 
 # Called when the node enters the scene tree for the first time.
 func _ready():
